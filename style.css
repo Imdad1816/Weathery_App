@@ -1,0 +1,23 @@
+body{
+    background: #534c4c;
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+}
+
+.my-4{
+    font-family: 'Niconne',cursive;
+    color: transparent;
+    -webkit-text-stroke: 2px black;
+    font-size: 5.3vw;
+    text-shadow: 2px 2px 0px #00ff84,
+                 4px 4px 0px #ff8000,
+                 6px 6px 0px #0044ff,
+                 8px 8px 0px #a600ffbd,
+                 10px 10px 0px #16c9ff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: rgb(237, 229, 7);
+    text-align: center;
+}
+.my-4:hover{
+    color: black;
+}
